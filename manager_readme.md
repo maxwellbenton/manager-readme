@@ -1,6 +1,6 @@
 # Working with Steven
 
-Hello! I'm glad to be your new manager (or I'm hoping to become so).
+Hello! You and I are entering a manager-staff relationship.
 
 I take my relationship with my team's members very seriously. Make no mistake,
 unlocking your potential and growing your comfort with your own autonomy is my
@@ -9,20 +9,15 @@ what to expect around working in this team.
 
 This document can't take the place of spending time to get to know one another.
 
+<a name="introduction"></a>
+
 ## Introduction
 
-Curriculum production is a lot like producing television: multiple gates, a
-pipeline, and deadlines for delivery. It will feel strange at first and _that's
-OK_! Not a lot of people have the rock-star background to do this role well:
-
-* Can code, well
-* Can think about code, deeply, well
-* Can write about well-considered code, well
-* Can de-structure that writing into a course of learning (curriculum comes from
-  the word for course, and running)
-* Can be empathetic to the "runners"
-* Is also a decent person
-* Also cares about parallelism of gerunds in a series
+Curriculum production is a lot like producing television: multiple review
+gates, a pipeline, and deadlines for delivery. It will feel strange at first
+and _that's OK_! Not a lot of people have the background to do this role well.
+Even if you've been doing it, doing it in a team might feel new. That's also
+OK!
 
 We're a rare, special, and unique breed. We chose you for a reason.
 
@@ -47,16 +42,19 @@ discussed. We can also put topics in here for things on the agenda in our next
 meeting. We'll also catalog wins and losses here: this record will help me
 pitch you for new roles and opportunities.
 
+Some people, particularly when the topic is emotional or challenging, like to
+bury it in the last few minutes of a 1/1. If you can, let's try to put those at
+the front of the meeting where we can treat them gently and with respect. How
+you feel is very real to me.
+
 <a name="feedback"></a>
 
 ### Bi-Directional Feedback
 
 I hope that I give more positive feedback than negative. If you feel like the
-balance is off, let me know. I want to celebrate good things you do with you.
-
-I really don't like giving negative feedback. In fact, I'm hoping that by
-writing this document you're going to know how to meet our goals so that you
-don't have to (:half-laugh:).
+balance is off, let me know. I want to celebrate all the good things you do
+with you. Sometimes negative feedback is warranted, and I hope we'll both take
+these gems, when they come, as opportunities for improvement.
 
 I hope to provide both positive and negative feedback to you in the following
 format:
@@ -65,10 +63,7 @@ format:
 * Specific
 * Kind
 
-It turns out that when you go for two of those, you get the third for free
-(think about it). Please return the same for feedback to me. If you don't feel
-like you're getting enough guidance, that's a great thing for me to hear from
-you and I'll make sure we're aligned in terms of level here.
+Please return the feedback for me in the same style.
 
 <a name="mgr-job"></a>
 
@@ -86,52 +81,14 @@ I will clear my calendar for you.<sup>[2](#fn2)</sup>
 2. Slack with a specific concern; pre-warning of meeting invitation; meeting invitation (I can prepare and don't twist in the wind while I'm waiting!)
 3. Slack message
 
-Please, never send "we need to talk" or "just a quick second" messages. They
-freak me out.
+Please avoid "we need to talk" or "just a quick second" messages. Without any
+directionality I'll start thinking the worst.
 
-Also, please don't put your most difficult concerns at the tail end of a
-meeting or 1/1 (a "stinger"). Your feelings are important and if you're so
-afraid of how I'll react to them that you feel like you can only sneak them in
-at a time when you can make a hasty retreat, our trust level needs some work.
-
-<a name="tool"></a>
-
-### A Steven is a Powerful Tool For...
-
-* Sharing information and context from "on high"
-* Helping grow your career and finding you opportunities
-* Provide perspective
-* Getting a hand: "Can you help me with...?"
-* Making and documenting a system or process
-* Building a pipeline to transform data or make drudge tasks go away
-* `vim` stuff
 
 ## Cadence
 
 We have a weekly flow or cadence at $COMPANY. I will explain this to you on day
-one. Make sure to ask about it!
-
-## Organizational Rules
-
-<a name="meetings"></a>
-
-### Meetings
-
-Meetings have a purpose and the smallest number of invitees possible. If they
-finish early, they close. They have a defined purpose and an agenda ***or else
-they do not happen***. It's entirely appropriate to have a meeting to
-"brainstorm" or "spitball" or "debate a point," but they should never fail to
-have a purpose that can be verified as having been met by the end of the
-meeting.
-
-<a name="friday"></a>
-
-### Friday Afternoon
-
-"Never deploy on Friday" &mdash; Engineer Wisdom
-
-Meetings or heavy lifting after 1500 on Friday should not happen except in
-emergencies.
+one.
 
 ## My Beliefs
 
@@ -140,10 +97,9 @@ emergencies.
 ### Diversity
 
 I believe my team must be ideologically, culturally, gender identity, religious
-identity, favorite Roman poetically diverse. This is very important to me as
-our curriculum must connect wider and faster than has been done as yet. If your
-identity is not respected by me, I need to fix it. If your identity is not
-respected by our team, we need to fix it. This is not negotiable.
+identity, etc.  If you feel identity is not respected by me, _I_ need to fix
+it. If your identity is not respected by our team, _we_ need to fix it. This is
+not negotiable.
 
 <a name="systems"></a>
 
@@ -165,19 +121,21 @@ for a humanist. I believe not-quite-fitting has been the key to some of the
 better moments of my career. I translate Latin in LaTeX with vim, _for fun_.
 
 I hope your [identity](#diversity) provides novel ideas and ways of connecting
-material with presentation.
+material with presentation. Please bring your whole self to the team.
 
 <a name="culture"></a>
 
 ## Cultural Expectations
 
-<a name="ones"></a>
+<a name="work-hard"></a>
+
+### Work Hard
 
 Work hard. Do your best.
 
 If, one day, you find that you no longer want to do your best here, let me know
 and I'll help you move to the place you can be best. Don't ride the downward
-slump, I'm here to help you move from joy to joy &mdash; even in your joy isn't
+slump. I'm here to help you move from joy to joy &mdash; even in your joy isn't
 with me.
 
 <a name="questions"></a>
@@ -204,7 +162,8 @@ documented is a drag to do, _code_.
 
 I believe we all choose to be leaders or not. Manager is a title, leader is a
 way of being. I expect you to be a leader. This means, ***take initative***.
-One of my favorite business books "TURN THE SHIP AROUND!" describes a world
+
+One of my favorite business books "Turn the Ship Around!" describes a world
 where the sub commander has so thoroughly described what "good decisions" look
 like, his staff of chiefs etc. simply go around saying "I intend to...." and,
 provided the intention is expressed with appropriate forethought and
@@ -218,11 +177,6 @@ The philosopher Anthony Bourdain once said that a great mise-en-place chef
 "works clean." Clean towels, sharp knife, clean surface. They hurry to finish
 the dish, but then clean. When there's slop, they wipe. When there's slippery
 pools of water, they mop.
-
-I used to interview people and I'd leave trash in their way or in the interview
-room. Those who put the crumpled piece of paper in the basket were signaling
-that they'd fix a mis-indented line of code, an inelegant test, or an ugly
-sentence. They worked clean so that we could all enjoy cleanliness.
 
 Work clean.
 
@@ -238,9 +192,14 @@ of perfect effort, do it.
 
 <a name="career"></a>
 
+### Career
+
 You own your career. I own objectives. When I can turn my objectives into a
 project or effort that grows your career, we're in our optimal dynamic. If
 you're stalling or hungry, _you must tell me what you need_.
+
+If you don't feel like you're getting enough guidance, that's a great thing for
+me to hear from you and I'll make sure we're aligned in terms of level here.
 
 <a name="basics"></a>
 
@@ -313,9 +272,45 @@ objectives and hold to our schedule, I don't need to see you in the flesh.
   required. The most important use of Slack, IMHO, is to blend an FAQ with
   expertise on where links are
 
+## Organizational Rules
+
+<a name="meetings"></a>
+
+### Meetings
+
+Meetings have a purpose and the smallest number of invitees possible. If they
+finish early, they close. They have a defined purpose and an agenda ***or else
+they do not happen***. It's entirely appropriate to have a meeting to
+"brainstorm" or "spitball" or "debate a point," but they should never fail to
+have a purpose that can be verified as having been met by the end of the
+meeting.
+
+<a name="friday"></a>
+
+### Friday Afternoon
+
+"Never deploy on Friday" &mdash; Engineer Wisdom
+
+Meetings or heavy lifting after 1500 on Friday should not happen except in
+emergencies.
+
+## Steven
+
+<a name="tool"></a>
+
+### A Steven is a Powerful Tool For...
+
+* Sharing information and context from "on high"
+* Helping grow your career and finding you opportunities
+* Provide perspective
+* Getting a hand: "Can you help me with...?"
+* Making and documenting a system or process
+* Building a pipeline to transform data or make drudge tasks go away
+* `vim` stuff
+
 <a name="known-issues"></a>
 
-## Known Issues with Steven
+### Known Issues with Steven
 
 * Archaic forms of English; **Workaround**: "Is where really better than why?" I
   lived in Holland, learned Dutch, and I learned how to hack Modern English

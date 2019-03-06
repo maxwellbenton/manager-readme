@@ -9,6 +9,38 @@ what to expect around working in this team.
 
 This document can't take the place of spending time to get to know one another.
 
+* Table of Contents
+  * <a href="#introduction">Introduction</a>
+  * <a href="#commitments">Commitments to You</a>
+    * <a href="#ones">1/1</a>
+    * <a href="#feedback">Bi-Directional Feedback</a>
+    * <a href="#mgr-job">My Job Roles and Responsibilities</a>
+    * <a href="#availability">My Availability</a>
+  * <a href="#cadence">Cadence</a>
+  * <a href="#beliefs">My Beliefs</a>
+    * <a href="#diversity">Diversity</a>
+    * <a href="#systems">Systems Thinking</a>
+    * <a href="#multi">Multi-Disciplinary / Multi-Lateral</a>
+    * <a href="#culture">Cultural Expectations</a>
+    * <a href="#work-hard">Work Hard</a>
+    * <a href="#questions">Questions Over Error</a>
+    * <a href="#action">Action over Idleness</a>
+    * <a href="#work-clean">Work Clean</a>
+    * <a href="#dwbb">Deep Work over Being Busy</a>
+    * <a href="#career">Career</a>
+    * <a href="#basics">The Basics Aren't Explicit</a>
+    * <a href="#details">The Details Matter and Are Researched</a>
+  * <a href="og">Organizational Guidelines</a>
+    * <a href="#weekend">Working on the Weekend</a>
+    * <a href="#vacation">Vacation</a>
+    * <a href="#wft">Working from Home / Remotely</a>
+    * <a href="#meetings">Meetings</a>
+    * <a href="#friday">Friday Afternoon</a>
+  * <a href="#tech">Technology Expectations</a>
+  * <a href="#steven">Steven</a>
+    * <a href="#tool">A Steven is a Powerful Tool For...</a>
+    * <a href="#known-issues">Known Issues with Steven</a>
+
 <a name="introduction"></a>
 
 ## Introduction
@@ -89,6 +121,8 @@ directionality I'll start thinking the worst.
 
 We have a weekly flow or cadence at $COMPANY. I will explain this to you on day
 one.
+
+<a name="beliefs"></a>
 
 ## My Beliefs
 
@@ -225,6 +259,10 @@ students. If you're unsure of a grammar rule **you** pick up a reference.
 ***Don't hand-wave and hope you're right because you kinda think you're
 right.***
 
+<a name="og"></a>
+
+## Organizational Guidelines
+
 <a name="weekend"></a>
 
 ### Working on the Weekend
@@ -245,6 +283,8 @@ Take it. Take it wholly. If you must check Slack, don't reply. If you want to
 share pictures, cool and all, but seriously. Log out, set up auto-responders and
 replace the Slack whisper-knock with _"Aloha o'e"_.
 
+<a name="wfh"></a>
+
 ### Working from Home / Remotely
 
 This is a privilege. If you cannot collaborate remotely, you should not work
@@ -252,28 +292,6 @@ from home. If you do not have enough domain expertise to work effectively, you
 should work in proximity to someone with more domain expertise. We are a remote
 team so you have all the flexibility you need. If you can achieve your
 objectives and hold to our schedule, I don't need to see you in the flesh.
-
-<a name="tech"></a>
-
-## Technology Expectations
-
-* **Slack**: Per "[Deep Work over Being Busy](#dwbb)," I'm not a huge fan of
-  Slack. Also, my early morning are my most productive time. I don't believe in
-  squandering time with high-urgency, low-importance work. I only expect you to
-  respond within 60 minutes during business hours (generally 9-6). If I send you
-  something outside of this bloc you may safely ignore it until those hours. OR,
-  if you feel like replying, sure, but you are not obligated to. Expect the
-  same from me
-* **Calendar**: Respect your calendar. Reply to meetings / working sessions
-  etc. within the day
-* **Email**: Personally, I run at Inbox Zero (OK, well, Inbox ~ 5). I expect
-  replies (even if they are, "Can't do this til tomorrow!") within a day.
-  Email is for important things that we need a paper record of. When thought is
-  required. The most important use of Slack, IMHO, is to blend an FAQ with
-  expertise on where links are
-
-## Organizational Rules
-
 <a name="meetings"></a>
 
 ### Meetings
@@ -294,6 +312,27 @@ meeting.
 Meetings or heavy lifting after 1500 on Friday should not happen except in
 emergencies.
 
+<a name="tech"></a>
+
+## Technology Expectations
+
+* **Slack**: Per "[Deep Work over Being Busy](#dwbb)," I'm not a huge fan of
+  Slack. Also, my early morning are my most productive time. I don't believe in
+  squandering time with high-urgency, low-importance work. I only expect you to
+  respond within 60 minutes during business hours (generally 9-6). If I send you
+  something outside of this bloc you may safely ignore it until those hours. OR,
+  if you feel like replying, sure, but you are not obligated to. Expect the
+  same from me
+* **Calendar**: Respect your calendar. Reply to meetings / working sessions
+  etc. within the day
+* **Email**: Personally, I run at Inbox Zero (OK, well, Inbox ~ 5). I expect
+  replies (even if they are, "Can't do this til tomorrow!") within a day.
+  Email is for important things that we need a paper record of. When thought is
+  required. The most important use of Slack, IMHO, is to blend an FAQ with
+  expertise on where links are
+
+<a name="steven"></a>
+
 ## Steven
 
 <a name="tool"></a>
@@ -312,9 +351,10 @@ emergencies.
 
 ### Known Issues with Steven
 
-* Archaic forms of English; **Workaround**: "Is where really better than why?" I
+* Archaic forms of English; **Workaround**: "Is whereupon really better than 'on which'?" I
   lived in Holland, learned Dutch, and I learned how to hack Modern English
-  through Middle English interfaces still preserved in Dutch.
+  through Middle English interfaces still preserved in Dutch. For some reason
+  I've not been able to extirpate it from my wetware.
 * Beating the point to death; **Workaround**: "OK, we get it: $POINT."
 * Strong morning person; I will, by default, give my staff my "prime hours." As
   afternoons near I will not be as sharp. **Workaround**: Avoidance and using the
